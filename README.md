@@ -1,4 +1,6 @@
-## Hello! I'm David, a Data Scientist, passionate about transforming data into actionable insights through advanced analytics and machine learning.
+## Hello!
+
+I'm David, a Data Scientist, passionate about transforming data into actionable insights through advanced analytics and machine learning.
 
 ## GitHub Stats
 
